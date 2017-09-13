@@ -1,0 +1,29 @@
+<html>
+<head>
+  <link href="styles.css" rel="stylesheet"/>
+  <script src="script.js"></script>
+  <img src="https://i.pinimg.com/736x/07/02/e7/0702e72f65bc1bea31d734ee772e2326--the-unicorn-little-unicorn.jpg" width="200" height="250" alt="description"/>
+</head>
+
+<body>
+
+<h1>Welcome to this bloody mess.</h1>
+
+<p>Hey people. This crappy website is created by yours truly. ( ͡° ͜ʖ ͡°) </p>
+<a href="https://www.youtube.com/">Dank memes </a></p>
+
+<img src="https://media3.giphy.com/avatars/100soft/WahNEDdlGjRZ.gif"/>
+
+<br>
+
+<p><button onclick="newText('boots and ')">Boots and </button>
+
+<button onclick="newText('cats and ')">Cats and </button></p>
+
+<div id="output"></div>
+
+<p>I am literally a mess help.</p>
+<img src="https://i.pinimg.com/736x/69/6a/54/696a5491d0519d81d08f09bd218e664f--funny-animal-memes-funny-memes.jpg" width="200" height="250" alt="description"/>
+</body>
+
+</html>
